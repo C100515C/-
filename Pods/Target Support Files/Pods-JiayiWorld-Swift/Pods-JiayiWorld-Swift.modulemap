@@ -1,0 +1,6 @@
+module Pods_JiayiWorld_Swift [system] {
+  umbrella header "Pods-JiayiWorld-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
